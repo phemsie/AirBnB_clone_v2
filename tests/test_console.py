@@ -1,20 +1,3 @@
-
-AgeseVictor
-/
-AirBnB_clone_v2
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-AirBnB_clone_v2/tests/test_console.py
-@AgeseVictor
-AgeseVictor the work is done
- 1 contributor
-236 lines (216 sloc)  9.31 KB
 #!/usr/bin/python3
 """test for console"""
 import unittest
