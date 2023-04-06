@@ -4,7 +4,7 @@
 from fabric.api import env, put, run
 import os
 
-env.hosts = ['34.139.184.21', '34.74.230.21']
+env.hosts = ['52.90.14.254', '100.25.21.178']
 env.key_filename = "~/.ssh/holberton"
 env.user = "ubuntu"
 
