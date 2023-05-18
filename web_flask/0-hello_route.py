@@ -8,10 +8,10 @@ from flask import Flask
 app = Flask("__name__")
 
 
-@app.route('/airbnb-onepage', methods=['GET'])
+@app.route('/airbnb-onepage/', strict_slashes=False)
 def hello():
     """Return a given string"""
-    return ("Hello AirBnB One-page!")
+    return "Hello HBNB!"
 
 
 if __name__ == "__main__":
